@@ -1,0 +1,6 @@
+interface:
+  display_name: "学术汇报思路优化"
+  short_description: "从研究总览、科学逻辑到成果贡献，诊断并修改学术汇报材料"
+  default_prompt: "请用 $refine-research-presentation-structure 阅读我的学术汇报材料，先判断研究结构和证据，再完成本轮需要的诊断或修改。"
+policy:
+  allow_implicit_invocation: true
